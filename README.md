@@ -33,7 +33,7 @@ Offers the following key features:
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Kanban
-Link: https://github.com/users/ST10084726/projects/9/views/1
+Link: [https://github.com/users/ST10084726/projects/9/views/1](https://github.com/users/ST10084726/projects/12/views/1)
 
 ## Github
 Link: https://github.com/ST10084726/Fitness_App/tree/Updated
