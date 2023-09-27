@@ -36,7 +36,7 @@ Offers the following key features:
 Link: [https://github.com/users/ST10084726/projects/9/views/1](https://github.com/users/ST10084726/projects/12/views/1)
 
 ## Github
-Link: https://github.com/ST10084726/Fitness_App/tree/Updated
+Link: [https://github.com/ST10084726/Fitness_App/tree/Updated](https://github.com/ST10084726/Library_)
 
 ## Troubleshooting
 * Buttons or features within the software do not respond as expected.
